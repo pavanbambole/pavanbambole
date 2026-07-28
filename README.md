@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8f2df5,100:00d2d3&height=200&section=header&text=Pavan%20Bambole&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Engineering%20Student%20%7C%20Aspiring%20Data%20Analyst&descAlignY=55&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8f2df5,100:00d2d3&height=200&section=header&text=Pavan%20Bambole&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Engineering%20Student&descAlignY=55&descSize=16" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D2D3&center=true&vCenter=true&multiline=true&width=750&height=80&lines=Computer+Science+Engineering+Student+%F0%9F%8E%93;Learning+Data+Analytics+%7C+Python+%7C+Power+BI;Next+Up%3A+AI+Engineering+%F0%9F%A4%96;Cloud+Basics+%E2%98%81%EF%B8%8F+on+the+side" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D2D3&center=true&vCenter=true&multiline=true&width=750&height=80&lines=Computer+Science+Engineering+Student+%F0%9F%8E%93;Learning+Frontend+Development;Learning+Backend+Development;Building+Real+Projects+While+I+Learn" alt="Typing SVG" />
   </a>
 </p>
 
@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-Currently learning and building projects — working towards becoming a <b>Data Analyst</b>, with <b>AI Engineering</b> as my next step forward.
+I'm a student, learning and building projects along the way.
 </p>
 
 ---
@@ -29,28 +29,23 @@ Currently learning and building projects — working towards becoming a <b>Data 
 
 ### 💻 Tech Stack
 
-**Data Analytics** *(current focus)*
-<p align="left">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-**Web Development**
+**Frontend**
 <p align="left">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
-**Cloud (basics)**
+**Backend**
 <p align="left">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 **Tools**
@@ -81,7 +76,6 @@ Currently learning and building projects — working towards becoming a <b>Data 
 </p>
 
 ---
----
 
 ### 🚀 My Projects
 
@@ -89,7 +83,7 @@ Currently learning and building projects — working towards becoming a <b>Data 
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| 🩺 [Smart Organ Disease Detection & Organ Donation Management System](https://github.com/YOUR-USERNAME/organ-care-ai) | Academic final year project — role-based dashboards for Patient, Recipient, Donor, Doctor, Hospital, Laboratory, Admin | React, Vite, Framer Motion, Context API, i18next |
+| 🩺 [Smart Organ Disease Detection & Organ Donation Management System](https://github.com/YOUR-USERNAME/organ-care-ai) | Academic project — role-based dashboards for Patient, Recipient, Donor, Doctor, Hospital, Laboratory, Admin | React, Vite, Framer Motion, Context API, i18next |
 | 📊 [Sales Data Analysis - Power BI](https://github.com/YOUR-USERNAME/Sales-Data-Analysis---Power-BI) | Interactive dashboard analyzing sales, profit, quantity, and orders | Power BI, Excel |
 | 🏥 [Insurance Data Analysis - Power BI](https://github.com/YOUR-USERNAME/Insurance-Data-Analysis---Power-BI) | Dashboard tracking premium, coverage, and claim performance | Power BI |
 | ➕ *Next project coming soon...* | — | — |
