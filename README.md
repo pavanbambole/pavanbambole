@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pavan Bambole</h1>
-<h3 align="center">💻 Computer Science Engineering Student | 🧠 Building Smart Organ Disease Detection & Organ Donation Management System</h3>
+<h3 align="center"></h3>
 
 ---
 
