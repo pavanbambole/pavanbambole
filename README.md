@@ -6,7 +6,7 @@
 <!-- ============ TYPING SVG ============ -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00D2D3&center=true&vCenter=true&multiline=true&width=800&height=90&lines=Final+Year+Computer+Engineering+Student;Aspiring+Full+Stack+Developer;Learning+AI+%2F+ML+%26+Data+Analytics;Cloud+%26+DevOps+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00D2D3&center=true&vCenter=true&multiline=true&width=800&height=90&lines=Final+Year+Computer+Engineering+Student;Aspiring+Full+Stack+Developer;Learning+Data+Analytics+%26+Cloud;Future+Goal%3A+AI+Engineer+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -35,9 +35,9 @@ role: Final Year Computer Engineering Student
 status: "🎓 Learning & building — not yet a professional, but working towards it"
 aiming_to_become:
   - 💻 Full Stack Developer (React, Node.js)
-  - 🤖 AI / Machine Learning Engineer
   - 📊 Data Analyst
   - ☁️  Cloud Engineer (AWS / Azure)
+future_goal: "🤖 AI Engineer (long-term goal, not started yet)"
 currently_building: "Smart Organ Disease Detection & Organ Donation Management System"
 fun_fact: "I debug with print statements and I'm not ashamed 🐍"
 ```
@@ -85,6 +85,9 @@ fun_fact: "I debug with print statements and I'm not ashamed 🐍"
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white" />
 </p>
 
 **Cloud Computing**
@@ -164,11 +167,10 @@ End-to-end system to manage patient records, appointments, and staff.
 <td width="50%">
 
 ### 🤖 AI Medical Chatbot
-Conversational assistant for preliminary symptom triage using NLP.
+Conversational assistant for preliminary symptom triage — a future project once AI/ML foundations are built.
 
-**Tech:** Python, TensorFlow/PyTorch, NLP
-**Features:** Symptom checker, Chat interface
-**Status:** 🟡 Planned
+**Tech (planned):** Python, NLP
+**Status:** 🔮 Future Goal (not started)
 
 [![Repo](https://img.shields.io/badge/Repository-090a0f?style=for-the-badge&logo=github)](https://github.com/YOUR-USERNAME/ai-medical-chatbot)
 
@@ -274,7 +276,6 @@ Real-time video conferencing app similar to Google Meet.
 <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/Google_Data_Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/IBM_Data_Analyst-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow_Developer-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/Oracle_Java-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 <img src="https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
@@ -289,14 +290,14 @@ Real-time video conferencing app similar to Google Meet.
 <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Advanced_Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/System_Design-090a0f?style=flat-square&logo=architecture&logoColor=white" />
 </p>
+
+> 🔮 **Future goal:** AI Engineering — planned after building a strong foundation in full stack & data analytics.
 
 ---
 
@@ -312,42 +313,15 @@ Real-time video conferencing app similar to Google Meet.
 
 ---
 
-## 🗺️ Roadmap
-
-```
-Computer Engineering
-        │
-        ▼
-   Web Development
-        │
-        ▼
-   Data Analytics
-        │
-        ▼
-Artificial Intelligence
-        │
-        ▼
- Machine Learning
-        │
-        ▼
- Cloud Computing
-        │
-        ▼
- Software Engineer 🎯
-```
-
----
-
 ## 🎯 Goals
 
 - [ ] Build 50+ Professional Projects
-- [ ] Become an AI Engineer
+- [ ] Become a Full Stack Developer
 - [ ] Become a Data Analyst
 - [ ] Become a Cloud Engineer
-- [ ] Become a Full Stack Developer
 - [ ] Contribute to Open Source
-- [ ] Publish Research Papers
 - [ ] Get Placement in a Top Product Company
+- [ ] 🔮 Become an AI Engineer *(future goal, after mastering the above)*
 
 ---
 
