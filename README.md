@@ -1,5 +1,17 @@
-<h1 align="center">Hi 👋, I'm Pavan Bambole</h1>
-<h3 align="center">🎓 Computer Science Engineering Student | 📊 Aspiring Data Analyst</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8f2df5,100:00d2d3&height=200&section=header&text=Pavan%20Bambole&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Engineering%20Student%20%7C%20Aspiring%20Data%20Analyst&descAlignY=55&descSize=16" width="100%"/>
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D2D3&center=true&vCenter=true&multiline=true&width=750&height=80&lines=Final+Year+CS+Engineering+Student+%F0%9F%8E%93;Learning+Data+Analytics+%7C+Python+%7C+Power+BI;Next+Goal%3A+AI+Engineer+%F0%9F%A4%96;Cloud+Basics+%E2%98%81%EF%B8%8F+on+the+side" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=for-the-badge&color=8f2df5&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/YOUR-USERNAME?style=for-the-badge&color=00d2d3&labelColor=090a0f" />
+</p>
 
 <p align="center">
 Currently learning and building projects — working towards becoming a <b>Data Analyst</b>, with <b>AI Engineering</b> as my next long-term goal.
@@ -56,6 +68,14 @@ Currently learning and building projects — working towards becoming a <b>Data 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical&hide_border=true" height="165"/>
 </p>
 
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical&hide_border=true" height="165"/>
+</p>
+
+<p align="left">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=react-dark&hide_border=true" width="95%"/>
+</p>
+
 ---
 
 ### 🎯 My Path
@@ -83,3 +103,7 @@ Currently learning and building projects — working towards becoming a <b>Data 
 ---
 
 <p align="center"><i>🎓 I'm a student, learning step by step — thanks for stopping by!</i></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2d3,100:8f2df5&height=100&section=footer" width="100%"/>
+</p>
