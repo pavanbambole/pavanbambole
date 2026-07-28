@@ -8,10 +8,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=for-the-badge&color=8f2df5&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/YOUR-USERNAME?style=for-the-badge&color=00d2d3&labelColor=090a0f" />
-</p>
 
 <p align="center">
 I'm a student, learning and building projects along the way.
