@@ -1,18 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8f2df5,100:00d2d3&height=200&section=header&text=Pavan%20Bambole&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Engineering%20Student&descAlignY=55&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8f2df5,100:00d2d3&height=180&section=header&text=Pavan%20Bambole&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D2D3&center=true&vCenter=true&multiline=true&width=750&height=80&lines=Computer+Science+Engineering+Student+%F0%9F%8E%93;Learning+Frontend+Development;Learning+Backend+Development;Building+Real+Projects+While+I+Learn" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00D2D3&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Computer+Science+Engineering+Student+%F0%9F%8E%93;Learning+Frontend+%26+Backend+Development;Building+Real+Projects+While+I+Learn" alt="Typing SVG" />
 </p>
-
-<p align="center">
-I'm a student, learning and building projects along the way.
-</p>
-
----
 
 ### 🌐 Socials:
 <p align="left">
