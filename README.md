@@ -17,7 +17,7 @@ I'm a student, learning and building projects along the way.
 ### 🌐 Socials:
 <p align="left">
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:pavanbambole5@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -91,20 +91,20 @@ I'm a student, learning and building projects along the way.
 
 ### 📊 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&hide_border=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pavanbambole&show_icons=true&theme=radical&hide_border=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pavanbambole&theme=radical&hide_border=true" height="165"/>
 </p>
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavanbambole&layout=compact&theme=radical&hide_border=true" height="165"/>
 </p>
 
 <p align="left">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=react-dark&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pavanbambole&theme=react-dark&hide_border=true" width="95%"/>
 </p>
 
 <p align="left">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=radical&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=pavanbambole&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -115,9 +115,9 @@ I'm a student, learning and building projects along the way.
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| 🩺 [Smart Organ Disease Detection & Organ Donation Management System](https://github.com/YOUR-USERNAME/organ-care-ai) | Academic project — role-based dashboards for Patient, Recipient, Donor, Doctor, Hospital, Laboratory, Admin | React, Vite, Framer Motion, Context API, i18next |
-| 📊 [Sales Data Analysis - Power BI](https://github.com/YOUR-USERNAME/Sales-Data-Analysis---Power-BI) | Interactive dashboard analyzing sales, profit, quantity, and orders | Power BI, Excel |
-| 🏥 [Insurance Data Analysis - Power BI](https://github.com/YOUR-USERNAME/Insurance-Data-Analysis---Power-BI) | Dashboard tracking premium, coverage, and claim performance | Power BI |
+| 🩺 [Smart Organ Disease Detection & Organ Donation Management System](https://github.com/pavanbambole/organ-care-ai) | Academic project — role-based dashboards for Patient, Recipient, Donor, Doctor, Hospital, Laboratory, Admin | React, Vite, Framer Motion, Context API, i18next |
+| 📊 [Sales Data Analysis - Power BI](https://github.com/pavanbambole/Sales-Data-Analysis---Power-BI) | Interactive dashboard analyzing sales, profit, quantity, and orders | Power BI, Excel |
+| 🏥 [Insurance Data Analysis - Power BI](https://github.com/pavanbambole/Insurance-Data-Analysis---Power-BI) | Dashboard tracking premium, coverage, and claim performance | Power BI |
 | ➕ *Next project coming soon...* | — | — |
 
 <!-- End of projects table -->
