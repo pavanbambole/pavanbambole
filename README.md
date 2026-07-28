@@ -1,11 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8f2df5,100:00d2d3&height=180&section=header&text=Pavan%20Bambole&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00D2D3&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Computer+Science+Engineering+Student+%F0%9F%8E%93;Learning+Frontend+%26+Backend+Development;Building+Real+Projects+While+I+Learn" alt="Typing SVG" />
-</p>
-
 ### 🌐 Socials:
 <p align="left">
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
