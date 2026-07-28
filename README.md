@@ -1,12 +1,12 @@
 <!-- ============ ANIMATED BANNER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8f2df5,100:00d2d3&height=220&section=header&text=Pavan%20Bambole&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Engineer%20%7C%20Data%20Analyst&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8f2df5,100:00d2d3&height=220&section=header&text=Pavan%20Bambole&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Final%20Year%20CS%20Student%20%7C%20Aspiring%20Full%20Stack%20%26%20AI%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 </p>
 
 <!-- ============ TYPING SVG ============ -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00D2D3&center=true&vCenter=true&multiline=true&width=800&height=90&lines=Final+Year+Computer+Engineering+Student;Full+Stack+Developer+%7C+AI+Engineer;Data+Analyst+%7C+Machine+Learning+Enthusiast;Cloud+%26+DevOps+Learner+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00D2D3&center=true&vCenter=true&multiline=true&width=800&height=90&lines=Final+Year+Computer+Engineering+Student;Aspiring+Full+Stack+Developer;Learning+AI+%2F+ML+%26+Data+Analytics;Cloud+%26+DevOps+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -32,13 +32,13 @@
 ```yaml
 name: Pavan Bambole
 role: Final Year Computer Engineering Student
-focus:
-  - 💻 Full Stack Development (React, Node.js)
-  - 🤖 Artificial Intelligence & Machine Learning
-  - 📊 Data Analysis & Visualization
-  - ☁️  Cloud Computing (AWS / Azure)
-  - 🔐 Open Source Contributor (Learning)
-current_project: "Smart Organ Disease Detection & Organ Donation Management System"
+status: "🎓 Learning & building — not yet a professional, but working towards it"
+aiming_to_become:
+  - 💻 Full Stack Developer (React, Node.js)
+  - 🤖 AI / Machine Learning Engineer
+  - 📊 Data Analyst
+  - ☁️  Cloud Engineer (AWS / Azure)
+currently_building: "Smart Organ Disease Detection & Organ Donation Management System"
 fun_fact: "I debug with print statements and I'm not ashamed 🐍"
 ```
 
