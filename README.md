@@ -1,23 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8f2df5,100:00d2d3&height=200&section=header&text=Pavan%20Bambole&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Engineering%20Student%20%7C%20Aspiring%20Data%20Analyst&descAlignY=55&descSize=16" width="100%"/>
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D2D3&center=true&vCenter=true&multiline=true&width=750&height=80&lines=Final+Year+CS+Engineering+Student+%F0%9F%8E%93;Learning+Data+Analytics+%7C+Python+%7C+Power+BI;Next+Goal%3A+AI+Engineer+%F0%9F%A4%96;Cloud+Basics+%E2%98%81%EF%B8%8F+on+the+side" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=for-the-badge&color=8f2df5&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/YOUR-USERNAME?style=for-the-badge&color=00d2d3&labelColor=090a0f" />
-</p>
-
-<p align="center">
-Currently learning and building projects — working towards becoming a <b>Data Analyst</b>, with <b>AI Engineering</b> as my next long-term goal.
-</p>
-
----
 
 ### 🌐 Socials:
 <p align="left">
