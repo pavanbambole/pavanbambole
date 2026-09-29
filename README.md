@@ -1,62 +1,115 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8f2df5,100:00d2d3&height=180&section=header&text=Pavan%20Bambole&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
+</p>
 🌐 Socials:
-<p align="left"> <a href="https://www.linkedin.com/in/pavanbambole" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:pavanbambole5@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://github.com/pavanbambole" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://kaggle.com/pavanbambole" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a> </p>
+<p align="left">
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:pavanbambole5@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-💻 Tech Stack
+---
 
-Languages
+### 💻 Tech Stack
 
-<p align="left"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> </p>
+**Languages**
+<p align="left">
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
-Frontend
+**Frontend**
+<p align="left">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+</p>
 
-<p align="left"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" /> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" /> </p>
+**Backend**
+<p align="left">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
-Backend
+**Database**
+<p align="left">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+</p>
 
-<p align="left"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> </p>
+**Cloud (basics)**
+<p align="left">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</p>
 
-Database
+**Design**
+<p align="left">
+<img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
 
-<p align="left"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" /> </p>
+**Tools**
+<p align="left">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+</p>
 
-Data Analysis & BI
+---
 
-<p align="left"> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Seaborn-90EE90?style=for-the-badge&logo=python&logoColor=black" /> </p>
+### 📊 GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=pavanbambole&show_icons=true&theme=radical&hide_border=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pavanbambole&theme=radical&hide_border=true" height="165"/>
+</p>
 
-Cloud (basics)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavanbambole&layout=compact&theme=radical&hide_border=true" height="165"/>
+</p>
 
-<p align="left"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /> </p>
+<p align="left">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pavanbambole&theme=react-dark&hide_border=true" width="95%"/>
+</p>
 
-Design
+<p align="left">
+<img src="https://github-profile-trophy.vercel.app/?username=pavanbambole&theme=radical&no-frame=true&row=1&column=6" />
+</p>
 
-<p align="left"> <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" /> <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> </p>
+---
 
-Tools
+### 🚀 My Projects
 
-<p align="left"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" /> </p>
-📊 GitHub Stats
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=pavanbambole&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavanbambole&theme=radical&hide_border=true" height="165"/> </p> <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavanbambole&layout=compact&theme=radical&hide_border=true" height="165"/> </p> <p align="left"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=pavanbambole&theme=react-dark&hide_border=true&area=true" width="95%"/> </p> <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=pavanbambole&theme=radical&no-frame=true&row=1&column=6" /> </p>
-🚀 My Projects
-💻 Web Development
-Project	Description	Tech Stack
-🩺 Smart Organ Disease Detection & Organ Donation Management System	Academic project — role-based dashboards for Patient, Recipient, Donor, Doctor, Hospital, Laboratory, Admin	React, Vite, Framer Motion, Context API, i18next
-📊 Data Analysis & Business Intelligence
-Project	Description	Tech Stack
-📊 Sales Data Analysis - Power BI	Interactive dashboard analyzing sales, profit, quantity, and orders	Power BI, Excel
-🏥 Insurance Data Analysis - Power BI	Dashboard tracking premium, coverage, and claim performance	Power BI
-🔧 Coming Soon
-Project	Description	Tech Stack
-➕ Next project...	—	—
-🎯 What I'm Currently Working On
-🔨 Building scalable full-stack web applications
-📊 Creating interactive Power BI dashboards & data visualizations
-🤖 Learning Machine Learning & Data Science
-🌐 Contributing to open-source projects
-📚 Exploring advanced system design patterns
-💡 Why Work With Me?
+<!-- 👇 Add a new row here every time you build a new project -->
 
-✨ Full-Stack + Data — Frontend, Backend, and Analytics combined
-📊 Data-Driven — Making informed decisions with insights
-🎯 Problem Solver — Creative solutions to challenges
-📚 Always Learning — Exploring new technologies
-🤝 Team Player — Collaborative and communicative
+| Project | Description | Tech Stack |
+|---|---|---|
+| 🩺 [Smart Organ Disease Detection & Organ Donation Management System](https://github.com/pavanbambole/organ-care-ai) | Academic project — role-based dashboards for Patient, Recipient, Donor, Doctor, Hospital, Laboratory, Admin | React, Vite, Framer Motion, Context API, i18next |
+| 📊 [Sales Data Analysis - Power BI](https://github.com/pavanbambole/Sales-Data-Analysis---Power-BI) | Interactive dashboard analyzing sales, profit, quantity, and orders | Power BI, Excel |
+| 🏥 [Insurance Data Analysis - Power BI](https://github.com/pavanbambole/Insurance-Data-Analysis---Power-BI) | Dashboard tracking premium, coverage, and claim performance | Power BI |
+| ➕ *Next project coming soon...* | — | — |
+
+<!-- End of projects table -->
+
+---
+
+<p align="center"><i>🎓 I'm a student, learning step by step — thanks for stopping by!</i></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2d3,100:8f2df5&height=100&section=footer" width="100%"/>
+</p>
+ isme bus jo nahi hai woh add kr other can not be chane and seprated  web and data anlist project
