@@ -1,13 +1,13 @@
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8f2df5,100:00d2d3&height=180&section=header&text=Pavan%20Bambole&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/> </p>
-🌐 Socials:
-<p align="left"> <a href="https://www.linkedin.com/in/pavanbambole" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:pavanbambole5@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://github.com/pavanbambole" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://kaggle.com/pavanbambole" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a> </p>
+🌐 Connect With Me
+<p align="left"> <a href="https://www.linkedin.com/in/pavanbambole" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:pavanbambole5@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://kaggle.com/pavanbambole" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a> <a href="https://github.com/pavanbambole" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> </p>
 💼 About Me
 
-Hi! I'm Pavan Bambole — a passionate Full Stack Developer and Data Analyst combining code with insights. 🚀
+Hi! I'm Pavan Bambole — a passionate Full Stack Developer and Data Analyst combining web development with data insights. 🚀
 
-🎓 Student Developer focused on practical problem-solving
-💻 Building responsive web applications with modern tech
-📊 Turning data into actionable insights and dashboards
+🎓 Student Developer with focus on practical problem-solving
+💻 Building responsive, user-centric web applications
+📊 Turning complex data into actionable insights
 🤖 Exploring Data Science and Machine Learning
 🌍 Open to collaboration and exciting opportunities
 💻 Tech Stack
@@ -45,12 +45,12 @@ Tools
 <p align="left"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" /> </p>
 📊 GitHub Stats
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=pavanbambole&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavanbambole&theme=radical&hide_border=true" height="165"/> </p> <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavanbambole&layout=compact&theme=radical&hide_border=true" height="165"/> </p> <p align="left"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=pavanbambole&theme=react-dark&hide_border=true&area=true" width="95%"/> </p> <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=pavanbambole&theme=radical&no-frame=true&row=1&column=6" /> </p>
-🚀 My Projects
-💻 Web Development Projects
+🚀 Featured Projects
+💻 Web Development
 Project	Description	Tech Stack
 🩺 Smart Organ Disease Detection & Organ Donation Management System	AI-powered healthcare platform with role-based dashboards for Patient, Recipient, Donor, Doctor, Hospital, Laboratory, Admin with multilingual support	React, Vite, Framer Motion, Context API, i18next
 🌐 Web Project Coming Soon...	Modern full-stack application	React, Node.js, MongoDB
-📊 Data Analysis & Business Intelligence Projects
+📊 Data Analysis & Business Intelligence
 Project	Description	Tech Stack
 📊 Sales Data Analysis - Power BI	Interactive dashboard analyzing sales performance, profit trends, quantity metrics, and regional orders with executive KPIs	Power BI, Excel, DAX
 🏥 Insurance Data Analysis - Power BI	Comprehensive dashboard tracking insurance premiums, coverage rates, claim settlements, and risk assessment	Power BI, Excel, SQL
