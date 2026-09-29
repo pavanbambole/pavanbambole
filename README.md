@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8f2df5,100:00d2d3&height=180&section=header&text=Pavan%20Bambole&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
-</p>
 🌐 Socials:
 <p align="left">
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -107,9 +104,3 @@
 
 ---
 
-<p align="center"><i>🎓 I'm a student, learning step by step — thanks for stopping by!</i></p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2d3,100:8f2df5&height=100&section=footer" width="100%"/>
-</p>
- isme bus jo nahi hai woh add kr other can not be chane and seprated  web and data anlist project
