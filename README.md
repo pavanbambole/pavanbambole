@@ -25,13 +25,37 @@ Hi! I'm Pavan Bambole, a passionate developer and data analyst combining the bes
 🛠️ Tools & Platforms
 <p align="left"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" /> </p>
 📈 GitHub Performance
-<div align="center"> <table> <tr> <td width="50%"> <img src="https://github-readme-stats.vercel.app/api?username=pavanbambole&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="100%"/> </td> <td width="50%"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavanbambole&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/> </td> </tr> </table> </div> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavanbambole&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="50%"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=pavanbambole&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph"/> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=pavanbambole&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=20" alt="Trophy" width="100%"/> </p>
+<div align="center">
+GitHub Stats & Contributions
+<table> <tr> <td width="50%"> <img src="https://github-readme-stats.vercel.app/api?username=pavanbambole&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9" alt="GitHub Stats" width="100%"/> </td> <td width="50%"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavanbambole&theme=tokyonight&hide_border=true&background=0d1117&currStreakNum=79c0ff&sideNums=79c0ff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9" alt="GitHub Streak" width="100%"/> </td> </tr> </table> </div>
+💻 Most Used Languages
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavanbambole&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="45%"/> </p>
+🔥 Contribution Activity
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=pavanbambole&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=79c0ff&point=c9d1d9" width="95%" alt="Contribution Graph"/> </p>
+🏆 Achievements & Milestones
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=pavanbambole&theme=tokyonight&no-frame=true&row=2&column=3&margin-w=20&margin-h=20" alt="Trophy" width="100%"/> </p>
 🎯 Featured Projects
 💻 Web Development Projects
 <table> <tr> <th align="left">🏆 Project</th> <th align="left">📝 Description</th> <th align="left">🔧 Tech Stack</th> </tr> <tr> <td><b>🩺 Smart Organ Disease Detection</b></td> <td>AI-powered healthcare platform with role-based dashboards for patients, doctors, hospitals & admins. Features multilingual support & real-time data tracking.</td> <td><code>React</code> <code>Vite</code> <code>Framer Motion</code> <code>Context API</code> <code>i18next</code></td> </tr> <tr> <td><b>🌐 Full Stack App</b></td> <td>Modern responsive web application with beautiful UI/UX. Coming Soon!</td> <td><code>React</code> <code>Node.js</code> <code>MongoDB</code></td> </tr> </table>
 📊 Data Analytics & Business Intelligence
 <table> <tr> <th align="left">📈 Project</th> <th align="left">📝 Description</th> <th align="left">🔍 Key Metrics</th> </tr> <tr> <td><b>📊 Sales Performance Dashboard</b></td> <td>Interactive Power BI dashboard with real-time sales analytics, profit trends, regional performance, and executive KPIs. Provides actionable business insights.</td> <td>Sales Trends • Revenue Analysis • Regional Insights • Profit Margins</td> </tr> <tr> <td><b>🏥 Insurance Analytics System</b></td> <td>Comprehensive insurance data dashboard tracking premiums, coverage rates, claim settlements, and risk metrics. Supports data-driven underwriting decisions.</td> <td>Premium Tracking • Claim Analysis • Risk Assessment • Coverage Metrics</td> </tr> <tr> <td><b>🔬 Data Exploration & Analysis</b></td> <td>In-depth exploratory data analysis projects with Python. Statistical insights, data visualization, and pattern discovery in diverse datasets.</td> <td>EDA • Statistical Analysis • Data Visualization • Python Analytics</td> </tr> </table>
-
+🎓 Skills Matrix
+Domain	Skills	Proficiency
+Frontend	React, Next.js, Tailwind, Bootstrap	⭐⭐⭐⭐⭐
+Backend	Node.js, Express, REST APIs	⭐⭐⭐⭐
+Databases	MySQL, MongoDB, PostgreSQL, Firebase	⭐⭐⭐⭐
+Data Analysis	Excel, Power BI, SQL, Python	⭐⭐⭐⭐⭐
+Data Science	Pandas, Matplotlib, Statistical Analysis	⭐⭐⭐⭐
+UI/UX Design	Figma, Responsive Design, User Research	⭐⭐⭐⭐
+DevOps Basics	Git, GitHub, Vercel, Netlify	⭐⭐⭐⭐
+🚀 What I'm Currently Doing
+🔨 Building scalable full-stack web applications
+📊 Creating advanced data dashboards and BI solutions
+🤖 Learning Machine Learning & AI integration
+📚 Exploring advanced system design patterns
+🌐 Contributing to open-source projects
+💡 Mentoring junior developers
+💡 Why Work With Me?
 
 ✨ Full-Stack Capability — Frontend, Backend, and Data combined
 📊 Data-Driven Approach — Making decisions backed by insights
