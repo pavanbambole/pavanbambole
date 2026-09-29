@@ -31,23 +31,7 @@ Hi! I'm Pavan Bambole, a passionate developer and data analyst combining the bes
 <table> <tr> <th align="left">🏆 Project</th> <th align="left">📝 Description</th> <th align="left">🔧 Tech Stack</th> </tr> <tr> <td><b>🩺 Smart Organ Disease Detection</b></td> <td>AI-powered healthcare platform with role-based dashboards for patients, doctors, hospitals & admins. Features multilingual support & real-time data tracking.</td> <td><code>React</code> <code>Vite</code> <code>Framer Motion</code> <code>Context API</code> <code>i18next</code></td> </tr> <tr> <td><b>🌐 Full Stack App</b></td> <td>Modern responsive web application with beautiful UI/UX. Coming Soon!</td> <td><code>React</code> <code>Node.js</code> <code>MongoDB</code></td> </tr> </table>
 📊 Data Analytics & Business Intelligence
 <table> <tr> <th align="left">📈 Project</th> <th align="left">📝 Description</th> <th align="left">🔍 Key Metrics</th> </tr> <tr> <td><b>📊 Sales Performance Dashboard</b></td> <td>Interactive Power BI dashboard with real-time sales analytics, profit trends, regional performance, and executive KPIs. Provides actionable business insights.</td> <td>Sales Trends • Revenue Analysis • Regional Insights • Profit Margins</td> </tr> <tr> <td><b>🏥 Insurance Analytics System</b></td> <td>Comprehensive insurance data dashboard tracking premiums, coverage rates, claim settlements, and risk metrics. Supports data-driven underwriting decisions.</td> <td>Premium Tracking • Claim Analysis • Risk Assessment • Coverage Metrics</td> </tr> <tr> <td><b>🔬 Data Exploration & Analysis</b></td> <td>In-depth exploratory data analysis projects with Python. Statistical insights, data visualization, and pattern discovery in diverse datasets.</td> <td>EDA • Statistical Analysis • Data Visualization • Python Analytics</td> </tr> </table>
-🎓 Skills Matrix
-Domain	Skills	Proficiency
-Frontend	React, Next.js, Tailwind, Bootstrap	⭐⭐⭐⭐⭐
-Backend	Node.js, Express, REST APIs	⭐⭐⭐⭐
-Databases	MySQL, MongoDB, PostgreSQL, Firebase	⭐⭐⭐⭐
-Data Analysis	Excel, Power BI, SQL, Python	⭐⭐⭐⭐⭐
-Data Science	Pandas, Matplotlib, Statistical Analysis	⭐⭐⭐⭐
-UI/UX Design	Figma, Responsive Design, User Research	⭐⭐⭐⭐
-DevOps Basics	Git, GitHub, Vercel, Netlify	⭐⭐⭐⭐
-🚀 What I'm Currently Doing
-🔨 Building scalable full-stack web applications
-📊 Creating advanced data dashboards and BI solutions
-🤖 Learning Machine Learning & AI integration
-📚 Exploring advanced system design patterns
-🌐 Contributing to open-source projects
-💡 Mentoring junior developers
-💡 Why Work With Me?
+
 
 ✨ Full-Stack Capability — Frontend, Backend, and Data combined
 📊 Data-Driven Approach — Making decisions backed by insights
