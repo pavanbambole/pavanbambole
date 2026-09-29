@@ -1,8 +1,5 @@
 🌐 Socials:
 <p align="left"> <a href="https://www.linkedin.com/in/pavanbambole" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:pavanbambole5@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://github.com/pavanbambole" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://kaggle.com/pavanbambole" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a> </p>
-💼 About Me
-
-Hi! I'm Pavan Bambole — a Full Stack Developer and Data Analyst passionate about building web apps and extracting data insights. 🚀
 
 💻 Tech Stack
 
